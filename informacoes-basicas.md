@@ -4,9 +4,7 @@
 
 ### Nome
 
-{% hint style="warning" %}
 É importante você adicionar o seu nome correto no perfil, evitando utilizar símbolos, números, caracteres especiais e apelidos que possam comprometer sua imagem profissional.
-{% endhint %}
 
 ### Foto de perfil
 
